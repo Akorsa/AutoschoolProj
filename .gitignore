@@ -1,0 +1,7 @@
+*.classpath
+*.class
+*.jfd
+*.png
+*.jpg
+*.fatjar
+*.project
